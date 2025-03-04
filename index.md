@@ -10,3 +10,7 @@ Let's now write some code
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+Things to do next:
+- [ ] Write something meaningful about me on my GitHub profile
+- [x] Upload my first project
